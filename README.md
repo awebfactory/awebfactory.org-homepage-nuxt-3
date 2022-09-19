@@ -14,7 +14,7 @@
 
 ## Code as single source of truth
 
-Learning process: Clone the repo and follow the commits step by step. Run in dev mode and compare what you are seeing happen with the code and the changes for each commit. We try to make them as atomic as possible.
+(Building and) learning process: Clone the repo and follow the commits step by step. Run in dev mode and compare what you are seeing happen with the code and the changes for each commit. We try to make them as atomic as possible.
 
 ```bash
 git clone https://github.com/awebfactory/awebfactory.org-homepage-nuxt-3.git
