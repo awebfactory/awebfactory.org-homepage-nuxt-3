@@ -3,7 +3,7 @@
 - #BuildInPublic
 - #LearnInPublic
 
-> This is not any kind of template. This is not any kind of magic short-cut. 
+> This is not any kind of template. This is not any kind of magic short-cut.
 >
 > It's about the _process_ of how we get there, how we work
 >
@@ -23,8 +23,11 @@ npm install
 npm run dev
 ```
 
+- See this project on AWebFactory dot org (`coming soon`) to see
+  - mvp and log of where we're coming from
+  - log of where we are
+  - mvp of where we're going.
 - See [commits](https://github.com/awebfactory/awebfactory.org-homepage-nuxt-3/commits/main) to see where we are and where we've come from.
-- See the current project on AWebFactory dot org to see where we're going.
 - The [Git Book](https://git-scm.com/book/en/v2) explains [how to check out different commits](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - See the `package.json` file for dependencies
-- See the [Nuxt 3 docs] for anything else
+- See the [Nuxt 3 docs](https://v3.nuxtjs.org/) for anything else
