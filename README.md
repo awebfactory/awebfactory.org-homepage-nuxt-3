@@ -1,4 +1,4 @@
-# AWebFactory.org. The Making of. From Scratch, Step-by-Step
+# AWebFactory.org. The Making of. From Scratch. Step-by-Step
 
 - #BuildInPublic
 - #LearnInPublic
