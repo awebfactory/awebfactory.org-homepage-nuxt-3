@@ -1,42 +1,30 @@
-# Content v2 Minimal Starter
+# AWebFactory.org. The Making of. From Scratch, Step-by-Step
 
-Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
+- #BuildInPublic
+- #LearnInPublic
 
-## Setup
+> This is not any kind of template. This is not any kind of magic short-cut. 
+>
+> It's about the _process_ of how we get there, how we work
+>
+> It's about _how_ we build
+>
+> It's about _how_ we really learn and re-use
+>
 
-Make sure to install the dependencies:
+## Code as single source of truth
+
+Learning process: Clone the repo and follow the commits step by step. Run in dev mode and compare what you are seeing happen with the code and the changes for each commit. We try to make them as atomic as possible.
 
 ```bash
-# yarn
-yarn install
-
-# npm
+git clone https://github.com/awebfactory/awebfactory.org-homepage-nuxt-3.git
+cd awebfactory.org-homepage-nuxt-3
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
 npm run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
+- See [commits] to see where we are and where we've come from.
+- See the current project on AWebFactory dot org to see where we're going.
+- The [Git Book](https://git-scm.com/book/en/v2) explains [how to check out different commits](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+- See the `package.json` file for dependencies
+- See the [Nuxt 3 docs] for anything else
