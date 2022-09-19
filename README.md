@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-- See [commits] to see where we are and where we've come from.
+- See [commits](https://github.com/awebfactory/awebfactory.org-homepage-nuxt-3/commits/main) to see where we are and where we've come from.
 - See the current project on AWebFactory dot org to see where we're going.
 - The [Git Book](https://git-scm.com/book/en/v2) explains [how to check out different commits](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 - See the `package.json` file for dependencies
