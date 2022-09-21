@@ -1,0 +1,7 @@
+/* Default (module searches here automatically) top level tailwind css file to override default module file */ 
+/* as per https://tailwindcss.nuxtjs.org/getting-started/setup#tailwind-files */
+/* and aso mentioned by server upon running `npm run dev`: `Using Tailwind CSS from ~/assets/css/tailwind.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
