@@ -3,7 +3,7 @@ title: Doc Driven
 layout: custom
 ---
 
-::the-title
+::h1{.text-4xl .text-blue-500}
 Doc Driven
 ::
 
